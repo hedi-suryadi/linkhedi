@@ -104,11 +104,11 @@ ul.links li:not(:last-child) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: red;
+  background-color: #40A2E3;
   gap: 1rem;
   padding: 1rem;
   border-radius: 20px;
-  box-shadow: 8px 10px 0 #416D19;
+  box-shadow: 8px 10px 0 #0f0f25;
   border: 2px solid #2d2d56;
 }
 
@@ -156,6 +156,10 @@ ul.links li:not(:last-child) {
 .link-card2:hover {
   border: 2px solid white;
 }
+.link-card3:hover {
+  border: 2px solid #EBF400;
+}
+
 .link-tele:hover {
   border: 2px solid #1D24CA;
 }
