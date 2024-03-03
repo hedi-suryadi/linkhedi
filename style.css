@@ -127,7 +127,6 @@ ul.links li:not(:last-child) {
 }
 
 .link-action-w {
-  color: black;
   cursor: pointer;
   padding: 10px;
 }
