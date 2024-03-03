@@ -81,48 +81,43 @@ ul.links li:not(:last-child) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #864AF9;
   gap: 1rem;
   padding: 1rem;
   border-radius: 20px;
   box-shadow: 8px 10px 0 #0f0f25;
-  border: 2px solid #2d2d56;
+  border: 2px solid #00FF00;
 }
 
 .link-card2 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: red;
   gap: 1rem;
   padding: 1rem;
   border-radius: 20px;
   box-shadow: 8px 10px 0 #0f0f25;
-  border: 2px solid #2d2d56;
+  border: 2px solid #00FF00;
 }
 .link-card3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #40A2E3;
   gap: 1rem;
   padding: 1rem;
   border-radius: 20px;
   box-shadow: 8px 10px 0 #0f0f25;
-  border: 2px solid #2d2d56;
+  border: 2px solid #00FF00;
 }
 
 .link-whatsapp {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #00FF00;
   gap: 1rem;
   padding: 1rem;
   border-radius: 20px;
   box-shadow: 8px 10px 0 #0f0f25;
   border: 2px solid #00FF00;
-  color: black;
 }
 
 
@@ -141,12 +136,11 @@ ul.links li:not(:last-child) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #F72798;
   gap: 1rem;
   padding: 1rem;
   border-radius: 20px;
   box-shadow: 8px 10px 0 #0f0f25;
-  border: 2px solid #6495ED;
+  border: 2px solid #00FF00;
 }
 
 .link-card:hover {
